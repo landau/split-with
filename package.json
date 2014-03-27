@@ -1,0 +1,38 @@
+{
+  "name": "split-with",
+  "version": "1.0.0",
+  "description": "Returns an array of [takeWhile(coll, pred), dropWhile(coll, pred)]",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "jshint --reporter node_modules/jshint-stylish/stylish.js index.js test.js",
+    "test": "mocha -R nyan test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/landau/split-with.git"
+  },
+  "keywords": [
+    "functional",
+    "map",
+    "iterate",
+    "array",
+    "keep",
+    "transform"
+  ],
+  "author": "Trevor Landau <landautrevor@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/landau/split-with/issues"
+  },
+  "homepage": "https://github.com/landau/split-with",
+  "devDependencies": {
+    "jshint-stylish": "^0.1.5",
+    "mocha": "^1.18.2",
+    "jshint": "^2.4.4",
+    "is-predicate": "^0.4.0"
+  },
+  "dependencies": {
+    "drop-while": "^1.0.0",
+    "take-while": "^1.0.0"
+  }
+}

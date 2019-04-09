@@ -1,17 +1,18 @@
 'use strict';
 
-var assert = require('assert');
-var splitWith = require('./');
-var is = require('is-predicate');
+const assert = require('assert');
+const predicate = require('predicate');
+const { describe, it } = require('mocha');
+const splitWith = require('./');
 
 function gtEq3(val) {
-  return is.greaterEq(3, val);
+  return predicate.greaterEq(3, val);
 }
 
-describe('splitWith', function() {
-  it('should ', function() {
-    var arr = [1, 2, 3, 4, 5];
-    var expected = [[1, 2, 3], [4, 5]];
+describe('splitWith', () => {
+  it('should ', () => {
+    const arr = [1, 2, 3, 4, 5];
+    const expected = [[1, 2, 3], [4, 5]];
 
     assert.deepEqual(splitWith(arr, gtEq3), expected);
   });

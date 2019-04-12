@@ -15,7 +15,8 @@
     "check-cov": "nyc check-coverage --lines 100 --functions 100 --branches 100",
     "html-cov": "nyc report --reporter=html",
     "view-cov": "nyc report",
-    "browse-cov": "npm run-s html-cov && open coverage/index.html"
+    "browse-cov": "npm run-s html-cov && open coverage/index.html",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
@@ -46,7 +47,8 @@
     "mocha": "6.1.3",
     "nyc": "13.3.0",
     "predicate": "1.2.0",
-    "prettier": "1.16.4"
+    "prettier": "1.16.4",
+    "semantic-release": "15.13.3"
   },
   "dependencies": {
     "drop-while": "2.0.0",

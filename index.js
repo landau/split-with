@@ -8,7 +8,7 @@ const dropWhile = require('drop-while');
  *
  * @param {Array} coll -
  * @param {Function} pred -
- * @param {object} [ctx] -
+ * @param {Object} [ctx] -
  *
  * @returns {Array} -
  */

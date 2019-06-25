@@ -39,8 +39,8 @@
   "devDependencies": {
     "@landau/eslint-config": "2.0.0",
     "@semantic-release/changelog": "3.0.4",
-    "@semantic-release/git": "7.0.12",
-    "@semantic-release/npm": "5.1.9",
+    "@semantic-release/git": "7.0.13",
+    "@semantic-release/npm": "5.1.11",
     "eslint": "6.0.1",
     "eslint-config-prettier": "5.1.0",
     "eslint-plugin-import": "2.18.0",
@@ -51,7 +51,7 @@
     "nyc": "14.1.1",
     "predicate": "1.2.0",
     "prettier": "1.18.2",
-    "semantic-release": "15.13.16"
+    "semantic-release": "15.13.17"
   },
   "dependencies": {
     "drop-while": "2.0.0",

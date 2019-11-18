@@ -12,7 +12,10 @@ function gtEq3(val) {
 describe('splitWith', () => {
   it('should ', () => {
     const arr = [1, 2, 3, 4, 5];
-    const expected = [[1, 2, 3], [4, 5]];
+    const expected = [
+      [1, 2, 3],
+      [4, 5]
+    ];
 
     assert.deepEqual(splitWith(arr, gtEq3), expected);
   });

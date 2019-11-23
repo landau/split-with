@@ -41,7 +41,7 @@
     "@semantic-release/changelog": "3.0.6",
     "@semantic-release/git": "7.0.18",
     "@semantic-release/npm": "5.3.4",
-    "eslint": "6.6.0",
+    "eslint": "6.7.0",
     "eslint-config-prettier": "6.7.0",
     "eslint-plugin-import": "2.18.2",
     "eslint-plugin-jsdoc": "18.1.4",

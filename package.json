@@ -51,7 +51,7 @@
     "nyc": "15.0.0",
     "predicate": "1.2.0",
     "prettier": "1.19.1",
-    "semantic-release": "17.0.3"
+    "semantic-release": "17.0.4"
   },
   "dependencies": {
     "drop-while": "2.0.0",

@@ -55,6 +55,6 @@
   },
   "dependencies": {
     "drop-while": "2.0.0",
-    "take-while": "2.0.0"
+    "take-while": "3.0.0"
   }
 }

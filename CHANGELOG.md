@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/landau/split-with/compare/v2.0.3...v3.0.0) (2020-03-28)
+
+
+### Bug Fixes
+
+* Drop support for Node 8;  3.0.0 ([c40ade8](https://github.com/landau/split-with/commit/c40ade800785243aee139ad92e5eff0f0692df0a))
+
+
+### BREAKING CHANGES
+
+* No more node 8
+
 ## [2.0.3](https://github.com/landau/split-with/compare/v2.0.2...v2.0.3) (2019-04-12)
 
 

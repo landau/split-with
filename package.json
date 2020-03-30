@@ -1,6 +1,6 @@
 {
   "name": "split-with",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Returns an array of [takeWhile(coll, pred), dropWhile(coll, pred)]",
   "main": "index.js",
   "files": [

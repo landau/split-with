@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/landau/split-with/compare/v3.0.0...v3.0.1) (2020-03-30)
+
+
+### Bug Fixes
+
+* **deps:** update dependency take-while to v3 ([#220](https://github.com/landau/split-with/issues/220)) ([20af4a1](https://github.com/landau/split-with/commit/20af4a182c0021822dafb532022f06f4b3298a8a))
+
 # [3.0.0](https://github.com/landau/split-with/compare/v2.0.3...v3.0.0) (2020-03-28)
 
 

@@ -54,7 +54,7 @@
     "semantic-release": "17.0.4"
   },
   "dependencies": {
-    "drop-while": "2.0.0",
+    "drop-while": "3.0.0",
     "take-while": "3.0.0"
   }
 }

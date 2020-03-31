@@ -3,7 +3,7 @@
 const assert = require('assert');
 const predicate = require('predicate');
 const { describe, it } = require('mocha');
-const splitWith = require('./');
+const splitWith = require('.');
 
 function gtEq3(val) {
   return predicate.greaterEq(3, val);

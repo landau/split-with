@@ -1,3 +1,10 @@
+## [3.0.2](https://github.com/landau/split-with/compare/v3.0.1...v3.0.2) (2020-03-31)
+
+
+### Bug Fixes
+
+* **deps:** update dependency drop-while to v3 ([#219](https://github.com/landau/split-with/issues/219)) ([aee604b](https://github.com/landau/split-with/commit/aee604b9b2aafb1bc741e77cfc5d15c9eb74aad0))
+
 ## [3.0.1](https://github.com/landau/split-with/compare/v3.0.0...v3.0.1) (2020-03-30)
 
 

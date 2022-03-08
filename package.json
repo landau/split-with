@@ -38,9 +38,9 @@
   "homepage": "https://github.com/landau/split-with",
   "devDependencies": {
     "@landau/eslint-config": "4.0.7",
-    "@semantic-release/changelog": "6.0.0",
-    "@semantic-release/git": "10.0.0",
-    "@semantic-release/npm": "8.0.2",
+    "@semantic-release/changelog": "6.0.1",
+    "@semantic-release/git": "10.0.1",
+    "@semantic-release/npm": "8.0.3",
     "eslint": "8.0.1",
     "eslint-config-prettier": "8.3.0",
     "eslint-plugin-import": "2.25.2",
@@ -48,7 +48,7 @@
     "eslint-plugin-prettier": "4.0.0",
     "nyc": "15.1.0",
     "prettier": "2.4.1",
-    "semantic-release": "19.0.0"
+    "semantic-release": "19.0.2"
   },
   "dependencies": {
     "drop-while": "3.0.0",
